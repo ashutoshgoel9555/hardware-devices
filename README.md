@@ -1,2 +1,3 @@
 # hardware-devices
-my School Project
+my School Project<br>
+by Ashutosh Goel
